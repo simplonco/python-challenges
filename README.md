@@ -7,6 +7,16 @@ Most of these problems are taken from [exercism.io](http://exercism.io) !
 The exercises are ordered roughly in order of difficulty, but it's a bit
 haphazard.
 
+## How to run tests locally?
+
+```shell
+# Install python:
+$ sudo apt-get install python
+
+# Go inside your project folder and:
+$ python *test.py
+```
+
 ## Hello World 
 
 Write a program that greets the user by name, or by saying "Hello,
