@@ -17,6 +17,8 @@ $ sudo apt-get install python
 $ python *test.py
 ```
 
+http://www.commitstrip.com/fr/2016/02/22/when-the-functional-tests-are-all-red/
+
 ## Hello World 
 
 Write a program that greets the user by name, or by saying "Hello,
