@@ -1,5 +1,7 @@
 # Python challenges
 
+>_[Training](https://github.com/simplonco/training) / [Python](https://github.com/simplonco/python) / Challenges_
+
 Most of these problems are taken from [exercism.io](http://exercism.io) !
 
 ![Il buono, il brutto, il cattivo](bon-la-brute-et-le-trua-ii06-g.jpg)
